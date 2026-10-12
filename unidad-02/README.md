@@ -21,3 +21,6 @@ Conversor de Celsius a Fahrenheit.
 
 ## Referencia
 https://codelearnacademy.github.io/java/leccion02/
+
+## Revisión desde GitHub
+Las variables y los métodos permiten construir programas reutilizables.
