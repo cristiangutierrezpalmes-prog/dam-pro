@@ -12,7 +12,6 @@ https://codelearnacademy.github.io/java/
 Tu nombre y apellidos.
 
 ## Índice
-Las unidades se añadirán una a una.
-
+- [Unidad 01 - Introducción a Java](unidad-01/)
 ## Estado
 En construcción.
