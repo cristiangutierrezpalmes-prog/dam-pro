@@ -16,3 +16,6 @@ Las unidades se añadirán una a una.
 
 ## Estado
 En construcción.
+
+## Revisión desde GitHub
+Entender el entorno es necesario antes de crear aplicaciones.
