@@ -20,3 +20,9 @@ Comprobar la versión de Java.
 
 ## Referencia
 https://codelearnacademy.github.io/java/leccion01/
+
+## Revisión desde GitHub
+Entender el entorno es necesario antes de crear aplicaciones.
+git pull origin main
+cat unidad-01/README.md
+git status
