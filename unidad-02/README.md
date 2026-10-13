@@ -17,7 +17,9 @@ Escribir programas básicos con datos, expresiones y métodos.
 6. String y Math.
 
 ## Actividad de la unidad
-Conversor de Celsius a Fahrenheit.
+1. Conversor de Celsius a Fahrenheit.
+2. Calculadora de dos números.
+3. Cálculo de la media de tres notas.
 
 ## Referencia
 https://codelearnacademy.github.io/java/leccion02/
