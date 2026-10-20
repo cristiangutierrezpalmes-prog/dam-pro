@@ -1,4 +1,29 @@
 package ies.puerto;
 
+/**
+ * @author CristianGutierrezPalmes
+ * @version 1.0.0
+ */
+
 public class DatosPersonales {
+
+    static void main() {
+
+    }
+
+    /**
+     * Función que transforma la edad en String a entero
+     *
+     * @param sEdad
+     * @return
+     */
+    static int convertirEdad(String sEdad) {
+        if (sEdad == null) {
+            return 0;
+        }
+        int valor = Integer.valueOf(sEdad)
+        return Integer.parseInt(sEdad);
+    }
 }
+
+
